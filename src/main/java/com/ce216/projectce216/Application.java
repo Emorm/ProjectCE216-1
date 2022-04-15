@@ -14,6 +14,8 @@ public class Application extends javafx.application.Application {
         stage.setTitle("The Catalog");
         stage.setScene(scene);
         stage.show();
+        nice
+            
     }
 
     public static void main(String[] args) {
